@@ -11,15 +11,11 @@ people:
 - {name: 'Graduate Student', title: 'Researcher', department: 'Physics & Astronomy', institution: 'Some University', institution_address: '1 Main Street, Canada', phone: '(000) 000-0000', email: 'hello@university.edu', office: 'Science Building 505', image: 'assets/img/graduate-student.jpg', url: 'graduate-student'}
 
 courses:
-- {name: 'Vector Calculus', url: 'vector-calculus'}
-- {name: 'Quantum Mechanics', url: 'quantum-mechanics'}
-- {name: 'Stellar Structures', url: 'stellar-structures'}
+- {semester: 'Spring 2026', name: 'IE 690: Applied Probability for Machine Learning', url: 'vector-calculus'}
+- {semester: 'Spring 2026', name: 'IE 633: Dynamic Programming', url: 'vector-calculus'}
 
 social:
-- {icon: 'github', link: 'https://github.com/LeNPaul'}
-- {icon: 'twitter', link: 'https://twitter.com/paululele'}
-- {icon: 'instagram', link: 'https://instagram.com/paululele'}
-- {icon: 'linkedin', link: 'https://linkedin.com/in/lenpaul'}
+- {icon: 'linkedin', link: 'https://www.linkedin.com/in/harsha-honnappa-2b74277/'}
 
 contacts:
 - {name: 'Harsha Honnappa, Ph.D.', title: 'Associate Professor', department: 'Edwardson School of Industrial Engineering', institution: 'Purdue University', institution_address: '315 N. Grant St., West Lafayette IN 47906', phone: '(765) 496 0403', email: 'last_name at university.edu', office: 'GRIS 266', image: 'assets/img/contact.jpg'}
