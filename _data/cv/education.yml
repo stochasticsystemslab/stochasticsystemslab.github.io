@@ -1,8 +1,11 @@
 - title: 'B.E. Telecommunications Engineering'
   description: 'R.V. College of Engineering, V.T.U. (2000-2004)'
+  location: 'Bangalore, India'
 
 - title: 'M.S. Electrical Engineering'
   description: 'University of Southern California (2004-2006)'
+  location: 'Los Angeles CA'
 
-- title: 'Ph.D. Electrical Engineering'
+- title: 'Ph.D. Electrical Engineering (Minor: Applied Math)'
   description: 'University of Southern California (2009-2014)'
+  location: 'Los Angeles CA'
