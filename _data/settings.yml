@@ -6,7 +6,7 @@ menu:
 - {name: 'contact', url: '/contact'}
 
 people:
-- {name: 'Harsha Honnappa', title: 'Principal Investigator', department: 'Edwardson School of Industrial Engineering ', institution: 'Purdue University', institution_address: '315 N. Grant St, West Lafayette IN 47906', phone: '(765) 496-0403', email: 'lastname at purdue.edu', office: 'GRIS 266', image: 'assets/img/Harsha.jpg', url: 'cv'}
+- {name: 'Harsha Honnappa', title: 'Principal Investigator', department: 'Edwardson School of Industrial Engineering ', institution: 'Purdue University', institution_address: '315 N. Grant St, West Lafayette IN 47906', phone: '(765) 496-0403', email: 'lastname at purdue.edu', office: 'GRIS 266', image: 'assets/img/Harsha.jpg', url: ' '}
 - {title: 'Graduate Student', name: 'Xinlong Du', department: 'Edwardson School of Industrial Engineering', institution: 'Purdue University', institution_address: '315 N. Grant St, West Lafayette IN 47906', phone: '(000) 000-0000', email: 'du339  at purdue.edu', office: ' ', image: 'assets/img/graduate-student.jpg', url: 'graduate-student'}
 - {title: 'Graduate Student', name: 'Zihe Zhou', department: 'Edwardson School of Industrial Engineering', institution: 'Purdue University', institution_address: '315 N. Grant St, West Lafayette IN 47906', phone: '(000) 000-0000', email: 'zhou408 at purdue.edu', office: ' ', image: 'assets/img/graduate-student.jpg', url: 'graduate-student'}
 - {title: 'Graduate Student', name: 'Sharan Srinivasan', department: 'School of Electrical and Computer Engineering', institution: 'Purdue University', institution_address: '315 N. Grant St, West Lafayette IN 47906', phone: '(000) 000-0000', email: 'srini256 at purdue.edu', office: ' ', image: 'assets/img/graduate-student.jpg', url: 'graduate-student'}
