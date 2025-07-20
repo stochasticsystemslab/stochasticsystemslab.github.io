@@ -6,11 +6,26 @@ open_positions:
       - Strong background in probability and stochastic processes
       - Experience with simulation or reinforcement learning is a plus
     start_date: Fall 2025
+    apply: Send an email to honnappa at purdue.edu with "[PhD 2025]" in the subject line and share your academic CV.
 
-  - title: Postdoctoral Fellow 
+  - title: Postdoctoral Fellow (2)
     description: >
-      A one-year postdoc position is available with potential renewal, focused on amortized inference, stochastic optimization, and generative modeling.
+      One-year postdoc position is available with potential renewal. Focused on percolation phenomena in random geometric graphs and dynamical settings and compartmentalized stochastic models. This project is related to <a href="https://engineering.purdue.edu/IE/news/2024/podas-hiring-students"> the PODAS project </a> at Purdue.
     requirements:
-      - PhD in a relevant field (e.g., IE, Statistics, Applied Math)
-      - Strong publication record and coding proficiency
+      - PhD in a relevant field (e.g., probability, operations research, applied mathematics)
+      - Strong publication record
     start_date: Flexible
+    apply: Send an email to honnappa at purdue.edu and sdhara at purdue.edu with "[postdoc]" in the subject line and share your academic CV.
+
+  - title: Undergraduate students
+    description: >
+      We are seeking motivated undergraduate students to work on a risk-score modeling project for predicting student performance.
+    requirements:
+      - IE 332 and IE 230 or IE 330 (or equivalents)
+      - current Purdue undergraduate
+    start_date: Flexible
+    apply: Send an email to honnappa at purdue.edu with "[UG Research]" in the subject line and share your academic CV.
+
+    title: Masters students
+    description: >
+      No positions on offer.
