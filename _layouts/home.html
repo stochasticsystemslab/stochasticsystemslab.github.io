@@ -6,28 +6,37 @@ layout: default
     <h3 class="fw-bold">Research</h3>
     <img src="{{ site.github.url }}/assets/img/SSLOV.002.png" alt="Home" width="100%">
     <p>We are applied probabilists with interests in the modeling and analysis of stochastic systems, generative modeling and inverse problems, stochastic optimization and control. </p>
-    <!-- 🧠 Dynamically loaded from _data/research.yml -->
+    <!-- Ongoing Projects Section -->
     <div class="row g-5 mb-5">
       <div class="col-md-12">
-        {% for area in site.data.research.research %}
-          <h4 class="mt-4">{{ area.area }}</h4>
-
-          <strong>Topics:</strong>
-          <ul>
-            {% for topic in area.topics %}
-              <li>{{ topic }}</li>
+        <h3 class="fw-bold">Ongoing Projects</h3>
+        <p><a class="btn btn-outline-primary" data-bs-toggle="collapse" href="#projectsCollapse" role="button" aria-expanded="false" aria-controls="projectsCollapse">
+          Show/Hide Details
+        </a></p>
+    
+        <div class="collapse" id="projectsCollapse">
+          <div class="card card-body border-0">
+            {% for project in site.data.research.ongoing_projects %}
+              <h5 class="fw-semibold mt-4">{{ project.area }}</h5>
+    
+              <strong>Topics:</strong>
+              <ul>
+                {% for topic in project.topics %}
+                  <li>{{ topic }}</li>
+                {% endfor %}
+              </ul>
+    
+              <strong>Support:</strong>
+              <ul>
+                {% for grant in project.support %}
+                  <li>{{ grant }}</li>
+                {% endfor %}
+              </ul>
             {% endfor %}
-          </ul>
-
-          <strong>Support:</strong>
-          <ul>
-            {% for grant in area.support %}
-              <li>{{ grant }}</li>
-            {% endfor %}
-          </ul>
-        {% endfor %}
+          </div>
+        </div>
       </div>
-    </div>
+</div>
 </div>
 
 <!-- {% include publications.html %} -->
