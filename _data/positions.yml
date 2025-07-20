@@ -1,0 +1,16 @@
+open_positions:
+  - title: PhD Position in Stochastic Modeling
+    description: >
+      We are seeking a motivated PhD student with interests in applied probability, queueing systems, or stochastic control. The position is fully funded and includes opportunities to collaborate across disciplines.
+    requirements:
+      - Strong background in probability and stochastic processes
+      - Experience with simulation or reinforcement learning is a plus
+    start_date: Fall 2025
+
+  - title: Postdoctoral Fellow 
+    description: >
+      A one-year postdoc position is available with potential renewal, focused on amortized inference, stochastic optimization, and generative modeling.
+    requirements:
+      - PhD in a relevant field (e.g., IE, Statistics, Applied Math)
+      - Strong publication record and coding proficiency
+    start_date: Flexible
