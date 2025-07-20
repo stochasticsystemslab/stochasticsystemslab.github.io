@@ -1,0 +1,33 @@
+research:
+  - area: Analysis of Stochastic Systems
+    topics:
+      - Large scale asymptotics for nonstationary space-time stochastic processes
+      - Percolation phenomena on dynamic random graph models
+      - (Local) weak convergence analyses on random graphs and compartmentalized stochastic processes
+    support:
+      - National Science Foundation CMMI/1636069
+      - National Science Foundation DMS/2153915
+      - IE Frontiers Grant, Purdue Research Foundation
+
+  - area: Design and Control
+    topics:
+      - Reinforcement learning in continuous time with rough paths
+      - Robust stochastic filtering in Levy-driven and non-Markovian systems
+      - RL for impulse controlled stochastic processes
+      - Drift optimization and dynamic rate control of stochastic processes using simulation
+      - Simulation optimization and reinforcement learning algorithms for solving dynamic optimal transport problems
+    support:
+      - National Science Foundation DMS/2153915
+      - Office of Naval Research (ONR) FA-9550-24-1-0210
+
+  - area: Model Estimation and Inverse Problems
+    topics:
+      - Generative modeling for inverse problems in discrete-event models
+      - Statistical inference for controlled Markov models
+      - Theory of amortized and variational inference
+      - Forward model estimation for discrete-event models
+    support:
+      - National Science Foundation DMS/1812197
+      - National Science Foundation DMS/2153915
+      - National Science Foundation CAREER/2143752
+      - Office of Naval Research (ONR) FA-9550-24-1-0210
