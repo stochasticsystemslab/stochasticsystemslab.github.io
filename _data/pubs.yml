@@ -11,15 +11,13 @@ index:
 - name: Pathwise Relaxed Optimal Control of Rough Differential Equations. P Chakraborty
     and H Honnappa and S Tindel
   url: https://arxiv.org/abs/2402.17900
-- name: Introduction to Optimal Transport. IO Ryzhov and R Pasupathy and ...
+- name: Introduction to Optimal Transport. IO Ryzhov and R Pasupathy and H Honnappa
   url: https://ieeexplore.ieee.org/abstract/document/10838746/
 - name: Renewal Processes Represented as Doubly Stochastic Poisson Processes. X Du
     and H Honnappa
   url: https://arxiv.org/abs/2409.18362
-- name: System of load balancing. H Honnappa and V Subramanian
-  url: https://patents.google.com/patent/US11863452B2/en
 - name: Distributed (ATC) gradient descent for high dimension sparse regression. Y
-    Ji and G Scutari and Y Sun and ...
+    Ji and G Scutari and Y Sun and H Honnappa
   url: https://ieeexplore.ieee.org/abstract/document/10103556/
 - name: Distributed sparse regression via penalization. Y Ji and G Scutari and Y Sun
     and H Honnappa
@@ -34,17 +32,12 @@ index:
     in the Small-Noise Limit. Z Selk and H Honnappa
   url: https://arxiv.org/abs/2209.04523
 - name: 'Sample average approximation over function spaces: Statistical consistency
-    and rate of convergence. Z Zhou and H Honnappa and ...'
+    and rate of convergence. Z Zhou and H Honnappa and R Pasupathy'
   url: https://ieeexplore.ieee.org/abstract/document/10015313/
 - name: Strong embeddings for transitory queueing models. P Chakraborty and H Honnappa
   url: https://pubsonline.informs.org/doi/abs/10.1287/moor.2021.1158
 - name: Calibrating nonstationary queueing network models. H Honnappa
   url: https://link.springer.com/article/10.1007/s11134-022-09830-2
-- name: 'CAREER: Methods for Data-Driven Service Engineering. H Honnappa'
-  url: https://ui.adsabs.harvard.edu/abs/2022nsf....2143752H/abstract
-- name: 'Offline Estimation of Controlled Markov Chains: Minimax Nonparametric Estimators
-    and Sample Efficiency. I Banerjee and H Honnappa and V Rao'
-  url: ''
 - name: PAC-Bayes bounds on variational tempered posteriors for Markov models. I Banerjee
     and VA Rao and H Honnappa
   url: https://www.mdpi.com/1099-4300/23/3/313
@@ -63,14 +56,12 @@ index:
 - name: 'A Feynman-Kac type theorem for ODEs: Solutions of second order ODEs as modes
     of diffusions. Z Selk and H Honnappa'
   url: https://arxiv.org/abs/2106.08525
-- name: Calibrating infinite server queueing models driven by cox processes. R Wang
+- name: Calibrating infinite server queueing models driven by Cox processes. R Wang
     and H Honnappa
   url: https://ieeexplore.ieee.org/abstract/document/9715351/
 - name: Diffusion Approximations for Queues In A Fast Oscillatory Random Environment.
     H Honnappa and Y Liu and S Tindel and A Yip
   url: https://arxiv.org/abs/2108.12890
-- name: Methods of load balancing. H Honnappa and V Subramanian
-  url: https://patents.google.com/patent/US10931583B2/en
 - name: 'Modeling urban taxi services with e-hailings: A queueing network approach.
     W Zhang and H Honnappa and SV Ukkusuri'
   url: https://www.sciencedirect.com/science/article/pii/S0968090X18317340
@@ -101,7 +92,7 @@ index:
     W Zhang and H Honnappa and SV Ukkusuri'
   url: https://www.sciencedirect.com/science/article/pii/S2352146519300481
 - name: 'Risk-sensitive variational bayes: Formulations and bounds. P Jaiswal and
-    H Honnappa and ...'
+    H Honnappa and V Rao'
   url: https://optimization-online.org/wp-content/uploads/2019/05/7205.pdf
 - name: Open Problem—Adaptive Constant-Step Stochastic Approximation. R Pasupathy
     and H Honnappa and SR Hunter
@@ -120,7 +111,7 @@ index:
 - name: Dominating points of Gaussian extremes. H Honnappa and R Pasupathy and P Jaiswal
   url: https://arxiv.org/abs/1810.12132
 - name: Optimal allocations for sample average approximation. P Jaiswal and H Honnappa
-    and ...
+    and R Pasupathy
   url: https://ieeexplore.ieee.org/abstract/document/8632258/
 - name: An optimal control approach to within day congestion pricing for stochastic
     transportation networks. H Gehlot and H Honnappa and SV Ukkusuri
@@ -142,8 +133,6 @@ index:
 - name: Conditioned Functional Limits and Applications to Queues. H Honnappa and R
     Jain and AR Ward
   url: https://arxiv.org/abs/1711.02148
-- name: 'Transitory Stochastic Models: Analysis and Optimization. H Honnappa'
-  url: https://ui.adsabs.harvard.edu/abs/2016nsf....1636069H/abstract
 - name: A queueing model with independent arrivals, and its fluid and diffusion limits.
     H Honnappa and R Jain and AR Ward
   url: https://link.springer.com/article/10.1007/s11134-014-9428-4
@@ -159,44 +148,18 @@ index:
 - name: Mean field limits by population acceleration. H Honnappa and R Jain and AR
     Ward
   url: https://ieeexplore.ieee.org/abstract/document/7039918/
-- name: The∆(i)/GI/1 Queueing Model, and its Fluid and Diffusion Limits. H Honnappa
-    and R Jain and A Ward
-  url: ''
-- name: 'The A (i)/GI/l Queue: A new model of transitory queueing. H Honnappa and
+- name: 'The  ∆(i)/GI/l Queue: A new model of transitory queueing. H Honnappa and
     R Jain and AR Ward'
   url: https://ieeexplore.ieee.org/abstract/document/6483292/
 - name: A new transitory queueing model and its process limits. H Honnappa and R Jain
     and A Ward
   url: https://ieeexplore.ieee.org/abstract/document/6376300/
-- name: '(i)/GI/1: A New Queueing Model For Transitory Queueing Systems. H Honnappa
-    and R Jain and AR Ward'
-  url: ''
 - name: Strategic arrivals into queueing networks. H Honnappa and R Jain
   url: https://ieeexplore.ieee.org/abstract/document/5706993/
 - name: Customer event rate estimation using particle filters. H Honnappa
   url: https://crpit.scem.westernsydney.edu.au/confpapers/CRPITV87Honnappa.pdf
-- name: B. Feng, G. Pedrielli, Y. Peng, S. Shashaani, E. Song, CG Corlu, LH Lee, P.
-    Lendermann, eds.. Z Zhou and H Honnappa and R Pasupathy and C India
-  url: https://web.ics.purdue.edu/~pasupath/PAPERS/2022zhohonpas.pdf
-- name: 'The Concert Queueing Game: The Network Case. H Honnappa and R Jain'
-  url: http://ita.ucsd.edu/workshop/13/files/paper/paper_2025.pdf
 - name: Variational inference for diffusion modulated Cox processes. P Jaiswal and
     H Honnappa and V Rao
   url: https://openreview.net/forum?id=snaT4xewUfX
-- name: 'The∆(i)/GI/1 Queue: Fluid and Diffusion Approximations.. H Honnappa and R
-    Jain and AR Ward'
-  url: https://stoch-nets-2012.lids.mit.edu/posters/Honnappa.pdf
 - name: The Network Concert Queueing Game. H Honnappa and R Jain
   url: https://minghsiehece.usc.edu/wp-content/uploads/2017/08/Honnappa-Harsha.pdf
-- name: Reinforcement learning and rough paths theory. S Tindel and P Chakraborty
-    and H Honnappa
-  url: https://www.math.purdue.edu/~stindel/slides/reinforcement-learning.pdf
-- name: 'The∆(i)/GI/1 Queue: A New Model, and its Fluid and Diffusion Approximations.
-    H Honnappa and R Jain and A Ward'
-  url: ''
-- name: 'Technical Session 1: Queueing. CFOFACKN Eric and P NAIN and G NEGLIA and
-    D TOWSLEY and ...'
-  url: https://ieeexplore.ieee.org/abstract/document/6376296/
-- name: The Onsager-Machlup Theorem and its Relationship to Control, Large Deviations,
-    and Differential Equations. Z Selk and H Honnappa and W Haskell
-  url: https://meetings.ams.org/math/jmm2023/meetingapp.cgi/Paper/16861
