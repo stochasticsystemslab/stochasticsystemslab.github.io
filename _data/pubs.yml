@@ -1,0 +1,202 @@
+index:
+- name: Adaptive Estimation of the Transition Density of Controlled Markov Chains.
+    I Banerjee and V Rao and H Honnappa
+  url: https://arxiv.org/abs/2505.14458
+- name: 'Off-line Estimation of Controlled Markov Chains: Minimaxity and Sample Complexity.
+    I Banerjee and H Honnappa and V Rao'
+  url: https://pubsonline.informs.org/doi/abs/10.1287/opre.2023.0046
+- name: Drift Optimization of Regulated Stochastic Models Using Sample Average Approximation.
+    Z Zhou and H Honnappa and R Pasupathy
+  url: https://arxiv.org/abs/2506.06723
+- name: Pathwise Relaxed Optimal Control of Rough Differential Equations. P Chakraborty
+    and H Honnappa and S Tindel
+  url: https://arxiv.org/abs/2402.17900
+- name: Introduction to Optimal Transport. IO Ryzhov and R Pasupathy and ...
+  url: https://ieeexplore.ieee.org/abstract/document/10838746/
+- name: Renewal Processes Represented as Doubly Stochastic Poisson Processes. X Du
+    and H Honnappa
+  url: https://arxiv.org/abs/2409.18362
+- name: System of load balancing. H Honnappa and V Subramanian
+  url: https://patents.google.com/patent/US11863452B2/en
+- name: Distributed (ATC) gradient descent for high dimension sparse regression. Y
+    Ji and G Scutari and Y Sun and ...
+  url: https://ieeexplore.ieee.org/abstract/document/10103556/
+- name: Distributed sparse regression via penalization. Y Ji and G Scutari and Y Sun
+    and H Honnappa
+  url: http://www.jmlr.org/papers/v24/21-1333.html
+- name: On the statistical consistency of risk-sensitive bayesian decision-making.
+    P Jaiswal and H Honnappa and V Rao
+  url: https://proceedings.neurips.cc/paper_files/paper/2023/hash/a6df53f082619d02b9fad64a022e5de3-Abstract-Conference.html
+- name: 'Bayesian joint chance constrained optimization: Approximations and statistical
+    consistency. P Jaiswal and H Honnappa and VA Rao'
+  url: https://epubs.siam.org/doi/abs/10.1137/21M1430005
+- name: The Small-Noise Limit of the Most Likely Element is the Most Likely Element
+    in the Small-Noise Limit. Z Selk and H Honnappa
+  url: https://arxiv.org/abs/2209.04523
+- name: 'Sample average approximation over function spaces: Statistical consistency
+    and rate of convergence. Z Zhou and H Honnappa and ...'
+  url: https://ieeexplore.ieee.org/abstract/document/10015313/
+- name: Strong embeddings for transitory queueing models. P Chakraborty and H Honnappa
+  url: https://pubsonline.informs.org/doi/abs/10.1287/moor.2021.1158
+- name: Calibrating nonstationary queueing network models. H Honnappa
+  url: https://link.springer.com/article/10.1007/s11134-022-09830-2
+- name: 'CAREER: Methods for Data-Driven Service Engineering. H Honnappa'
+  url: https://ui.adsabs.harvard.edu/abs/2022nsf....2143752H/abstract
+- name: 'Offline Estimation of Controlled Markov Chains: Minimax Nonparametric Estimators
+    and Sample Efficiency. I Banerjee and H Honnappa and V Rao'
+  url: ''
+- name: PAC-Bayes bounds on variational tempered posteriors for Markov models. I Banerjee
+    and VA Rao and H Honnappa
+  url: https://www.mdpi.com/1099-4300/23/3/313
+- name: Information projection on Banach spaces with applications to state independent
+    KL-weighted optimal control. Z Selk and W Haskell and H Honnappa
+  url: https://link.springer.com/article/10.1007/s00245-021-09786-4
+- name: Infinite server queues in a random fast oscillatory environment. Y Liu and
+    H Honnappa and S Tindel and NK Yip
+  url: https://link.springer.com/article/10.1007/s11134-021-09704-z
+- name: Approximating systems fed by Poisson processes with rapidly changing arrival
+    rates. Z Zheng and H Honnappa and PW Glynn
+  url: https://pubsonline.informs.org/doi/abs/10.1287/opre.2020.2031
+- name: A many-server functional strong law for a non-stationary loss model. P Chakraborty
+    and H Honnappa
+  url: https://www.sciencedirect.com/science/article/pii/S0167637721000456
+- name: 'A Feynman-Kac type theorem for ODEs: Solutions of second order ODEs as modes
+    of diffusions. Z Selk and H Honnappa'
+  url: https://arxiv.org/abs/2106.08525
+- name: Calibrating infinite server queueing models driven by cox processes. R Wang
+    and H Honnappa
+  url: https://ieeexplore.ieee.org/abstract/document/9715351/
+- name: Diffusion Approximations for Queues In A Fast Oscillatory Random Environment.
+    H Honnappa and Y Liu and S Tindel and A Yip
+  url: https://arxiv.org/abs/2108.12890
+- name: Methods of load balancing. H Honnappa and V Subramanian
+  url: https://patents.google.com/patent/US10931583B2/en
+- name: 'Modeling urban taxi services with e-hailings: A queueing network approach.
+    W Zhang and H Honnappa and SV Ukkusuri'
+  url: https://www.sciencedirect.com/science/article/pii/S0968090X18317340
+- name: Asymptotic Consistency of -\R\\\'enyi-Approximate Posteriors. P Jaiswal and
+    V Rao and H Honnappa
+  url: http://www.jmlr.org/papers/v21/19-161.html
+- name: An optimal control approach to day-to-day congestion pricing for stochastic
+    transportation networks. H Gehlot and H Honnappa and SV Ukkusuri
+  url: https://www.sciencedirect.com/science/article/pii/S0305054820300460
+- name: Estimating stochastic Poisson intensities using deep latent models. R Wang
+    and P Jaiswal and H Honnappa
+  url: https://ieeexplore.ieee.org/abstract/document/9383967/
+- name: Asymptotic consistency of loss‐calibrated variational Bayes. P Jaiswal and
+    H Honnappa and VA Rao
+  url: https://onlinelibrary.wiley.com/doi/abs/10.1002/sta4.258
+- name: Infinite server queues in a random fast oscillatory environment. H Honnappa
+    and Y Liu and S Tindel and A Yip
+  url: https://arxiv.org/abs/2004.05034
+- name: Large deviations of gaussian extremes on convex sets. H Honnappa and P Jaiswal
+    and R Pasupathy
+  url: http://web.ics.purdue.edu/~pasupath/PAPERS/ldextremes.pdf
+- name: Statistical inference for approximate Bayesian optimal design. P Jaiswal and
+    H Honnappa
+  url: https://ieeexplore.ieee.org/abstract/document/9383857/
+- name: Asymptotically optimal appointment schedules. M Armony and R Atar and H Honnappa
+  url: https://pubsonline.informs.org/doi/abs/10.1287/moor.2018.0973
+- name: 'Modeling urban taxi services with e-hailings: A queueing network approach.
+    W Zhang and H Honnappa and SV Ukkusuri'
+  url: https://www.sciencedirect.com/science/article/pii/S2352146519300481
+- name: 'Risk-sensitive variational bayes: Formulations and bounds. P Jaiswal and
+    H Honnappa and ...'
+  url: https://optimization-online.org/wp-content/uploads/2019/05/7205.pdf
+- name: Open Problem—Adaptive Constant-Step Stochastic Approximation. R Pasupathy
+    and H Honnappa and SR Hunter
+  url: https://pubsonline.informs.org/doi/abs/10.1287/stsy.2019.0046
+- name: Large deviations of bivariate Gaussian extrema. R van der Hofstad and H Honnappa
+  url: https://link.springer.com/article/10.1007/s11134-019-09632-z
+- name: Asymptotic Consistency of Loss-Calibrated Variational Bayes. P Jaiswal and
+    H Honnappa and VA Rao
+  url: https://arxiv.org/abs/1911.01288
+- name: 'Risk-sensitive variational bayes: Formulations and bounds. volume. P Jaiswal
+    and H Honnappa and VA Rao'
+  url: ''
+- name: Approximating performance measures for slowly changing non-stationary Markov
+    chains. Z Zheng and H Honnappa and PW Glynn
+  url: https://arxiv.org/abs/1805.01662
+- name: Dominating points of Gaussian extremes. H Honnappa and R Pasupathy and P Jaiswal
+  url: https://arxiv.org/abs/1810.12132
+- name: Optimal allocations for sample average approximation. P Jaiswal and H Honnappa
+    and ...
+  url: https://ieeexplore.ieee.org/abstract/document/8632258/
+- name: An optimal control approach to within day congestion pricing for stochastic
+    transportation networks. H Gehlot and H Honnappa and SV Ukkusuri
+  url: ''
+- name: Rare events of transitory queues. H Honnappa
+  url: https://www.cambridge.org/core/journals/journal-of-applied-probability/article/rare-events-of-transitory-queues/3A46A766B9DC5FAD77C9EC9183045660
+- name: On Gaussian limits and large deviations for queues fed by high intensity randomly
+    scattered traffic. PW Glynn and H Honnappa
+  url: https://arxiv.org/abs/1708.05584
+- name: The “concert queueing game” with feedback routing. R Wang and H Honnappa
+  url: https://engineering.purdue.edu/SSL/publications/main-wang-honnappa-orl-v1.pdf
+- name: Transitory queueing networks. H Honnappa and R Jain
+  url: https://arxiv.org/abs/1708.05921
+- name: Asymptotically optimal appointment schedules with customer no-shows. M Armony
+    and R Atar and H Honnappa
+  url: https://arxiv.org/abs/1708.05920
+- name: The Superposition-Traffic Game. AR Hota and H Honnappa and S Sundaram
+  url: https://dl.acm.org/doi/abs/10.1145/3040230.3040236
+- name: Conditioned Functional Limits and Applications to Queues. H Honnappa and R
+    Jain and AR Ward
+  url: https://arxiv.org/abs/1711.02148
+- name: 'Transitory Stochastic Models: Analysis and Optimization. H Honnappa'
+  url: https://ui.adsabs.harvard.edu/abs/2016nsf....1636069H/abstract
+- name: A queueing model with independent arrivals, and its fluid and diffusion limits.
+    H Honnappa and R Jain and AR Ward
+  url: https://link.springer.com/article/10.1007/s11134-014-9428-4
+- name: 'Strategic arrivals into queueing networks: The network concert queueing game.
+    H Honnappa and R Jain'
+  url: https://pubsonline.informs.org/doi/abs/10.1287/opre.2014.1338
+- name: Rare events of marked finite point processes. H Honnappa
+  url: https://ieeexplore.ieee.org/abstract/document/7446998/
+- name: On transitory queueing. H Honnappa and R Jain and AR Ward
+  url: https://arxiv.org/abs/1412.2321
+- name: Strategic and Transitory Models of Queueing Systems. H Honnappa
+  url: https://search.proquest.com/openview/81d40f1a272e4a9053ca9838d26ce782/1?pq-origsite=gscholar\&cbl=18750
+- name: Mean field limits by population acceleration. H Honnappa and R Jain and AR
+    Ward
+  url: https://ieeexplore.ieee.org/abstract/document/7039918/
+- name: The∆(i)/GI/1 Queueing Model, and its Fluid and Diffusion Limits. H Honnappa
+    and R Jain and A Ward
+  url: ''
+- name: 'The A (i)/GI/l Queue: A new model of transitory queueing. H Honnappa and
+    R Jain and AR Ward'
+  url: https://ieeexplore.ieee.org/abstract/document/6483292/
+- name: A new transitory queueing model and its process limits. H Honnappa and R Jain
+    and A Ward
+  url: https://ieeexplore.ieee.org/abstract/document/6376300/
+- name: '(i)/GI/1: A New Queueing Model For Transitory Queueing Systems. H Honnappa
+    and R Jain and AR Ward'
+  url: ''
+- name: Strategic arrivals into queueing networks. H Honnappa and R Jain
+  url: https://ieeexplore.ieee.org/abstract/document/5706993/
+- name: Customer event rate estimation using particle filters. H Honnappa
+  url: https://crpit.scem.westernsydney.edu.au/confpapers/CRPITV87Honnappa.pdf
+- name: B. Feng, G. Pedrielli, Y. Peng, S. Shashaani, E. Song, CG Corlu, LH Lee, P.
+    Lendermann, eds.. Z Zhou and H Honnappa and R Pasupathy and C India
+  url: https://web.ics.purdue.edu/~pasupath/PAPERS/2022zhohonpas.pdf
+- name: 'The Concert Queueing Game: The Network Case. H Honnappa and R Jain'
+  url: http://ita.ucsd.edu/workshop/13/files/paper/paper_2025.pdf
+- name: Variational inference for diffusion modulated Cox processes. P Jaiswal and
+    H Honnappa and V Rao
+  url: https://openreview.net/forum?id=snaT4xewUfX
+- name: 'The∆(i)/GI/1 Queue: Fluid and Diffusion Approximations.. H Honnappa and R
+    Jain and AR Ward'
+  url: https://stoch-nets-2012.lids.mit.edu/posters/Honnappa.pdf
+- name: The Network Concert Queueing Game. H Honnappa and R Jain
+  url: https://minghsiehece.usc.edu/wp-content/uploads/2017/08/Honnappa-Harsha.pdf
+- name: Reinforcement learning and rough paths theory. S Tindel and P Chakraborty
+    and H Honnappa
+  url: https://www.math.purdue.edu/~stindel/slides/reinforcement-learning.pdf
+- name: 'The∆(i)/GI/1 Queue: A New Model, and its Fluid and Diffusion Approximations.
+    H Honnappa and R Jain and A Ward'
+  url: ''
+- name: 'Technical Session 1: Queueing. CFOFACKN Eric and P NAIN and G NEGLIA and
+    D TOWSLEY and ...'
+  url: https://ieeexplore.ieee.org/abstract/document/6376296/
+- name: The Onsager-Machlup Theorem and its Relationship to Control, Large Deviations,
+    and Differential Equations. Z Selk and H Honnappa and W Haskell
+  url: https://meetings.ams.org/math/jmm2023/meetingapp.cgi/Paper/16861
