@@ -2,6 +2,6 @@
 layout: cv
 title: "CV"
 
-[Download PDF CV](/assets/cv/Harsha_Honnappa_CV.pdf)
+[Download PDF CV](/assets/Honnappa_CV_full.pdf)
 ---
 
