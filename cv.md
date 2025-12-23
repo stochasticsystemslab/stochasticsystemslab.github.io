@@ -1,7 +1,7 @@
 ---
 layout: cv
 title: "CV"
-
-[Download PDF CV](/assets/Honnappa_CV_full.pdf)
+pdf: /assets/Honnappa_CV_full.pdf
 ---
 
+<a href="{{ page.pdf }}" target="_blank">Download PDF CV</a>
