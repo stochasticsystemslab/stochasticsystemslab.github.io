@@ -251,19 +251,19 @@ $$dB_t = d\tilde{B}_t \;+\; \frac{B_T - B_t}{T-t}\, dt,
 This is precisely the *Brownian bridge* drift toward the terminal
 pinning value $B_T$.
 
-## Notes
+## Footnotes
 
-[^1]: A process $M_t$ is a local martingale if there exists and
+1. A process $M_t$ is a local martingale if there exists and
     increasing sequence of stopping times $\tau_n\nearrow\infty$ such
     that each stopped process $M_{t\wedge\tau_n}$ is a martingale.
 
-[^2]: *A measure is called $\sigma$-finite if it can be written as a
+2. *A measure is called $\sigma$-finite if it can be written as a
     countable union of finite measures.*
 
-[^3]: We use $\mathbb{F}^{\sigma(\zeta)}$ to denote the right-continuous
+3. We use $\mathbb{F}^{\sigma(\zeta)}$ to denote the right-continuous
     version of the enlarged filtration $\mathbb{F}\lor \sigma(\zeta)$.
 
-[^4]: *The double square bracket is used for intervals with random
+4. *The double square bracket is used for intervals with random
     boundary points.*
     
  
