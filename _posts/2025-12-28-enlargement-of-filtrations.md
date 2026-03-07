@@ -6,7 +6,7 @@ description: A short introduction to filtration enlargement in probability theor
 tags: [probability, stochastic processes, finance]
 categories: blog
 math: true
-bibliography: references.bib
+
 ---
 
 
@@ -32,7 +32,7 @@ under the original information may no longer be so under the new one.
 The mathematical framework that studies how stochastic processes behave
 under such changes in information is called *Enlargement of
 Filtrations*, which has been studied extensively in the probability
-literature; see {% cite Grigorian2023 Jacod2006 Jeanblanc2009 %}.
+literature; see [Grigorian, 2023], [Jacod, 2006], [Jeanblanc et al., 2009].
 
 # Foundations
 
@@ -139,7 +139,7 @@ the $\mathbb{F}$-martingale in the $\mathbb{G}$ filtration.
 Among several sufficient conditions ensuring the
 $\mathcal{H}'$-hypothesis, *Jacod's condition* is often the most
 convenient in practice. The following statements (theorem and lemma) are
-adapted from [@Grigorian2023].
+adapted from [Grigorian, 2023].
 
 ::: theorem
 **Theorem 1** (Jacod's condition). *Let $\zeta$ be a random element in a
@@ -267,6 +267,8 @@ pinning value $B_T$.
     boundary points.*
     
  
- ## References
+## References
 
-{% bibliography --cited %}
+- Grigorian, A. (2023). *Notes on Enlargement of Filtrations*. (Survey/lecture notes).
+- Jacod, J. (2006). *Enlargement of Filtrations and Additional Information in Finance*. In: Paris-Princeton Lectures on Mathematical Finance 2004, Lecture Notes in Mathematics.
+- Jeanblanc, M., Yor, M., & Chesney, M. (2009). *Mathematical Methods for Financial Markets*. Springer.
