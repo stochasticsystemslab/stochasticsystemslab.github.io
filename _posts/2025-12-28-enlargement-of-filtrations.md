@@ -250,21 +250,6 @@ $$dB_t = d\tilde{B}_t \;+\; \frac{B_T - B_t}{T-t}\, dt,
  where $\tilde{B}$ is a $\mathbb{G}$-Brownian motion.
 This is precisely the *Brownian bridge* drift toward the terminal
 pinning value $B_T$.
-
-## Footnotes
-
-1. A process $M_t$ is a local martingale if there exists and
-    increasing sequence of stopping times $\tau_n\nearrow\infty$ such
-    that each stopped process $M_{t\wedge\tau_n}$ is a martingale.
-
-2. *A measure is called $\sigma$-finite if it can be written as a
-    countable union of finite measures.*
-
-3. We use $\mathbb{F}^{\sigma(\zeta)}$ to denote the right-continuous
-    version of the enlarged filtration $\mathbb{F}\lor \sigma(\zeta)$.
-
-4. *The double square bracket is used for intervals with random
-    boundary points.*
     
  
 ## References
@@ -272,3 +257,14 @@ pinning value $B_T$.
 - Grigorian, A. (2023). *Notes on Enlargement of Filtrations*. (Survey/lecture notes).
 - Jacod, J. (2006). *Enlargement of Filtrations and Additional Information in Finance*. In: Paris-Princeton Lectures on Mathematical Finance 2004, Lecture Notes in Mathematics.
 - Jeanblanc, M., Yor, M., & Chesney, M. (2009). *Mathematical Methods for Financial Markets*. Springer.
+
+
+## Footnotes
+
+[^1]: A process $M_t$ is a local martingale if there exists and increasing sequence of stopping times $\tau_n\nearrow\infty$ such that each stopped process $M_{t\wedge\tau_n}$ is a martingale. 
+
+[^2]: *A measure is called $\sigma$-finite if it can be written as a countable union of finite measures.* 
+
+[^3]: We use $\mathbb{F}^{\sigma(\zeta)}$ to denote the right-continuous version of the enlarged filtration $\mathbb{F}\lor \sigma(\zeta)$. 
+
+[^4]: *The double square bracket is used for intervals with random boundary points.*
